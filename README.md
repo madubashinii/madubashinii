@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her😊
-- ⚡ Fun fact: I have a strong passion for learning and am always looking to pick up new abilities and information.
+- ⚡ Fun fact: I have a strong passion for learning and I am always looking to pick up new abilities and information.
 
 <!---
 madubashinii/madubashinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
