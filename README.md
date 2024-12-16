@@ -54,8 +54,14 @@
 </p>
 
 ---
-
+<!--
 <h3 align="center">Thanks for stopping by! 😊</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Happy+Coding+🚀;" alt="Typing SVG" />
 </p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madubashinii&label=Profile%20views&color=0e75b6&style=flat" alt="madubashinii" /> </p>
+-->
+
