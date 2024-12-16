@@ -35,13 +35,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madubashinii&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madubashinii&theme=radical" alt="GitHub Streak" />
 </p>
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madubashinii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+ 
 ---
 
 ### 🚀 **Featured Projects**
