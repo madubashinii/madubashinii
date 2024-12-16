@@ -7,9 +7,9 @@
 
 ### 👩‍💻 **About Me**
 - 🌟 **Passionate About:** Web Development, Problem Solving
-- 🎯 **Current Focus:** Building projects in **Java**
-- 🌱 **Learning:** Java
-- ✨ **Fun Fact:** call me nila
+- 🎯 **Current Focus:** Building projects in **Mern Stack**
+- 🌱 **Learning:** Mern Stack
+- ✨ **Fun Fact:** call me nila😉
 ---
 
 ### 🛠️ **Tech Stack & Tools**
