@@ -1,6 +1,6 @@
 <h1 align="center">✨ Welcome to My GitHub Profile! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Nilakshi+Madubashini+👋;Passionate+about+Coding+%26+Open+Source;Always+learning+new+things+every+day!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Nilakshi+Madubashini+👋;Passionate+about+Coding;Always+learning+new+things+every+day!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,22 +29,23 @@
 </p>
 
 
----
-
+<!--
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madubashinii&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<!-- 
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madubashinii&theme=radical" alt="GitHub Streak" />
 </p>
--->
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madubashinii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
- 
----
+
+
 
 ### 🚀 **Featured Projects**
 <p align="center">
@@ -53,15 +54,11 @@
   </a>
 </p>
 
+-->
+
+
 ---
 <!--
-<h3 align="center">Thanks for stopping by! 😊</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Happy+Coding+🚀;" alt="Typing SVG" />
-</p>
-
----
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madubashinii&label=Profile%20views&color=0e75b6&style=flat" alt="madubashinii" /> </p>
 -->
 
