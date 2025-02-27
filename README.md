@@ -31,9 +31,9 @@
 ---
 
 ### 🚀 **Featured Projects**
-<p align="center">
-    <a href="https://github.com/madubashinii/ShoppingApp" target="_blank" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madubashinii&repo=ShoppingApp&theme=material-palenight" alt="Project 1" style="width: 400px; height: 150px;"  />
+<p align="center"> 
+    <a href="https://github.com/madubashinii/ShopApp" target="_blank" > 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madubashinii&repo=ShopApp&theme=material-palenight" alt="Project 1" style="width: 400px; height: 150px;"  />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/madubashinii/AdminDashboard" target="_blank">
