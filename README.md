@@ -72,8 +72,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madubashinii&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E56CF&ring=6E56CF&fire=FF9554&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6E56CF&sideLabels=6E56CF&dates=C9D1D9" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madubashinii&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E56CF&ring=6E56CF&fire=FF9554&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6E56CF&sideLabels=6E56CF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madubashinii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E56CF&line=6E56CF&point=FF9554" alt="Contribution Graph" />
