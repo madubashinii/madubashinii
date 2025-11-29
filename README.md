@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=madubashinii&label=Profile%20views&color=6E56CF&style=flat-square" alt="Profile views" /> 
-<a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/nilakshi-madubashini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:madu.bashini7520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/madubashinii"><img src="https://img.shields.io/github/followers/madubashinii?label=Follow&style=social" alt="GitHub followers"></a>
 
 </div>
@@ -22,7 +22,7 @@
 <br>
 
 - 🔭 Currently exploring **Full-Stack Development**
-- 📚 Learning **Node.js**, **MongoDB**, and advanced front-end technologies
+- 📚 Learning **AI** and advanced front-end technologies
 - 🤝 Open to collaborate on **web projects** and **open-source contributions**
 - 🌟 Passionate about building meaningful software and solving real-world problems
 - ☕ Fun fact: Cold coffee is my secret fuel when I'm programming — keeps the ideas brewing!
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
   <!-- Databases -->
