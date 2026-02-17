@@ -22,7 +22,7 @@
 <br>
 
 - 🔭 Currently exploring **Full-Stack Development**
-- 📚 Learning **AI** and advanced front-end technologies
+- 📚 Strengthening my skills in **React, Node.js, and modern web technologies** 
 - 🤝 Open to collaborate on **web projects** and **open-source contributions**
 - 🌟 Passionate about building meaningful software and solving real-world problems
 - ☕ Fun fact: Cold coffee is my secret fuel when I'm programming — keeps the ideas brewing!
